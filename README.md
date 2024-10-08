@@ -13,4 +13,4 @@ Zinit Annex Hooks is an extension for the Zsh-Zinit framework that allows you to
 To install the Zinit Annex Hooks extension, load it as a regular Zinit plugin using the following command:
 
 ```zsh
-zinit light kuttor/zinit-annex-hooks 
+zinit for id-as"hooks-ice" lucid light-mode @kuttor/zinit-annex-hooks 
